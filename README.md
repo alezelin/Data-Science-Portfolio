@@ -7,3 +7,4 @@ A portfolio regrouping all my data science projects
 
 ## Projects
 
+- [Ghouls, Goblins and Ghosts... Boo!](https://github.com/alezelin/Data-Science-Portfolio/blob/master/ghouls-goblins-and-ghosts-boo/Ghost-Classification.ipynb)
