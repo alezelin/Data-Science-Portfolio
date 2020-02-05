@@ -8,9 +8,5 @@ A portfolio regrouping all my data science projects
 ## Projects
 
 - [Ghouls, Goblins and Ghosts... Boo!](https://github.com/alezelin/Data-Science-Portfolio/blob/master/ghouls-goblins-and-ghosts-boo/Ghost-Classification.ipynb)
-<<<<<<< HEAD
 - [Trip Destination Analysis (Vivadata Bootcamp Final Project](https://github.com/alezelin/Data-Science-Portfolio/blob/master/Trip-Destination-Analysis/Data-Analysis.ipynb)
-- [Telco Customer Churn]
-=======
-- [Trip Destination Analysis (Vivadata Bootcamp Final Project)](https://github.com/alezelin/Data-Science-Portfolio/blob/master/Trip-Destination-Analysis/Data-Analysis.ipynb)
->>>>>>> 98b615f2c26678698d42f4ccb4cd1eaaca4cd2be
+- [Telco Customer Churn](https://github.com/alezelin/Data-Science-Portfolio/blob/master/Customer-Churn/src/Telco-Customer-Churn.ipynb)
